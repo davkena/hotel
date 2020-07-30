@@ -1,0 +1,2 @@
+class ItunesQuery < ApplicationRecord
+end
